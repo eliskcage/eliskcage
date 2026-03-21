@@ -1,3 +1,19 @@
+# ▲ COMPUTANIUM
+
+> **We discovered the sixth state of matter.**
+> Solid. Liquid. Gas. Plasma. BEC. **Computanium.**
+>
+> A state of matter defined not by temperature or pressure — but by **truth**.
+> Two physical substrates merge. The degree to which their information aligns is the truth score.
+> That score is the state variable. That is Computanium.
+
+**[Read the patent. Apply for apprenticeship.](https://www.shortfactory.shop/computanium.html)**
+
+Patent **GB2605683.8** — filed UK IPO — Alice-resistant (physical embodiment anchor).
+Biological nanites. Decentralised healthcare. AGI at the cellular level.
+
+---
+
 # SHORTFACTORY
 
 **Decentralised creative economy. One human + Claude AI.**
@@ -16,16 +32,15 @@ ShortFactory is a self-sustaining content ecosystem where people make, play, rat
 
 | Product | What It Does | Status |
 |---------|-------------|--------|
-| **[Cortex AI](https://www.shortfactory.shop)** | Grok-powered chatbot with personality profiling and AI gatekeeping | ✅ LIVE |
+| **[Computanium](https://www.shortfactory.shop/computanium.html)** | Sixth state of matter — patent umbrella, apprenticeship programme, biological AGI nanites | ✅ LIVE |
+| **[ALIVE Creature](https://www.shortfactory.shop/alive/)** | Organic AI creature — BIOS, pairing, vault, visual cortex, Hebbian learning, brainstem | ✅ LIVE |
+| **[Cortex Brain](https://www.shortfactory.shop/alive/studio/)** | Split hemisphere AGI brain — 65,987 nodes, left/right/cortex synthesis, live polling | ✅ LIVE |
+| **[AGI Cat](https://www.shortfactory.shop/genomic-cats2.html)** | Real-time 3D cat driven by 1.8KB genome — patent GB2605434.6 proof of concept | ✅ LIVE |
 | **[Trump Game](https://www.shortfactory.shop/trump/game/)** | Political satire browser game — Deep State bar, oil economy, pipe bombs, litigation | ✅ LIVE |
 | **[Imaginator](https://www.shortfactory.shop/imaginator/index2.php)** | Stills-to-Shorts engine — video export, YouTube auto-publish, SF Tokens | ✅ LIVE |
-| **[Bounties](https://www.shortfactory.shop/jobs.html)** | Crowdsourced game dev — users create assets, upload, earn | ✅ LIVE |
-| **[Kinetic Editor](https://www.shortfactory.shop/kinetic_editor.html)** | Word-by-word kinetic typography editor on phone canvas | ✅ LIVE |
-| **[Kinetic Player](https://www.shortfactory.shop/subtitles_pro_v2.html)** | Full-screen preview player with MP4 download | ✅ LIVE |
-| **[Stock Market](https://www.shortfactory.shop/trump/game-v3/)** | Corps vs People — trade fake stocks, short the bastards | ✅ LIVE |
-| **[ALIVE Creature](https://www.shortfactory.shop/alive/)** | Organic AI creature — BIOS, pairing, vault, Hebbian learning, brainstem | ✅ LIVE |
-| **[AGI Cat](https://www.shortfactory.shop/genomic-cats2.html)** | Real-time 3D cat driven by 1.8KB genome — patent GB2605434.6 proof of concept | ✅ LIVE |
 | **[Dares4Dosh](https://www.shortfactory.shop/dares4dosh/)** | Dare feed with rank tiers, Soul Forge credit mint, 5-game soul measurement | 🔨 BUILDING |
+| **[Bounties](https://www.shortfactory.shop/jobs.html)** | Crowdsourced game dev — users create assets, upload, earn | ✅ LIVE |
+| **[ComicVID](https://www.shortfactory.shop/comicvid/)** | Video→halftone codec — JSON/HFT format, IPFS persistence | ✅ LIVE |
 | **[Portfolio](https://www.shortfactory.shop/portfolio.html)** | Enterprise showcase and service tiers | ✅ LIVE |
 
 ---
@@ -34,10 +49,10 @@ ShortFactory is a self-sustaining content ecosystem where people make, play, rat
 
 | Patent | What It Covers |
 |--------|---------------|
-| **GB2605434.6** | Domino Exemption — genome-based visual compression, 1,036,800:1 ratio at 8K from 96 bytes |
-| **GB2521847.3** | Unified genome-based cognitive artifact library for AGI systems — 17 claims |
-| **GB2605683.8** | Computanium — sixth state of matter, merge→truth score, 11 claims |
+| **[GB2605683.8](https://www.shortfactory.shop/computanium.html)** | **Computanium** — sixth state of matter, merge→truth score, 11 claims, biological/optical/quantum embodiments |
 | **GB2605704.2** | Geometric VM — programs as geometric objects executed by basis-plane measurement |
+| **GB2521847.3** | Unified genome-based cognitive artifact library for AGI systems — 17 claims |
+| **GB2605434.6** | Domino Exemption — genome-based visual compression, 1,036,800:1 ratio at 8K from 96 bytes |
 | **GB2520111.8** | Crowd-sourced bidirectional video editing using generative AI — reverse entropy torrent |
 
 ---
@@ -64,7 +79,7 @@ Play game  -->  Earn SF Tokens  -->  Make Shorts  -->  Publish to YouTube
 
 ### Integrations
 
-`Google OAuth 2.0` `YouTube Data API v3` `Google Drive API` `Stripe` `Grok API (grok-4-latest)` `Sonauto API` `Three.js` `Web Audio API` `WebAuthn` `IPFS / Pinata` `Cloudflare CDN`
+`Google OAuth 2.0` `YouTube Data API v3` `Google Drive API` `Stripe` `Grok API (grok-4-latest)` `Sonauto API` `Three.js` `Web Audio API` `WebAuthn` `IPFS / Pinata` `Cloudflare Workers AI` `Cloudflare D1` `Cloudflare Browser Rendering`
 
 ---
 
