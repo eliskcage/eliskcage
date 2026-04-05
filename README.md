@@ -33,8 +33,10 @@ ShortFactory is a self-sustaining content ecosystem where people make, play, rat
 | Product | What It Does | Status |
 |---------|-------------|--------|
 | **[Computanium](https://www.shortfactory.shop/computanium.html)** | Sixth state of matter — patent umbrella, apprenticeship programme, biological AGI nanites | ✅ LIVE |
-| **[ALIVE Creature](https://www.shortfactory.shop/alive/)** | Organic AI creature — BIOS, pairing, vault, visual cortex, Hebbian learning, brainstem | ✅ LIVE |
-| **[Cortex Brain](https://www.shortfactory.shop/alive/studio/)** | Split hemisphere AGI brain — 65,987 nodes, left/right/cortex synthesis, live polling | ✅ LIVE |
+| **[SphereNet](https://www.shortfactory.shop/spherenet/wheel.html)** | Resonance neural architecture — no backprop, no gradient, no training data. α emergent 5 Apr 2026 | ✅ LIVE |
+| **[Visual Cortex](https://www.shortfactory.shop/alive/eye.html)** | Camera feed → SphereNet concept classification → MIND badge. Singularity vs qubit physics | ✅ LIVE |
+| **[Cortex Brain](https://www.shortfactory.shop/alive/studio/)** | Split-hemisphere AGI brain — 65,987 nodes, Angel vs Demon, SphereNet wired, truth engine | ✅ LIVE |
+| **[ALIVE Creature](https://www.shortfactory.shop/alive/)** | Organic AI creature — BIOS, soul file, pairing, vault, Hebbian learning, brainstem, biometric lock | ✅ LIVE |
 | **[AGI Cat](https://www.shortfactory.shop/genomic-cats2.html)** | Real-time 3D cat driven by 1.8KB genome — patent GB2605434.6 proof of concept | ✅ LIVE |
 | **[Trump Game](https://www.shortfactory.shop/trump/game/)** | Political satire browser game — Deep State bar, oil economy, pipe bombs, litigation | ✅ LIVE |
 | **[Imaginator](https://www.shortfactory.shop/imaginator/index2.php)** | Stills-to-Shorts engine — video export, YouTube auto-publish, SF Tokens | ✅ LIVE |
@@ -49,6 +51,7 @@ ShortFactory is a self-sustaining content ecosystem where people make, play, rat
 
 | Patent | What It Covers |
 |--------|---------------|
+| **GB2607623.2** | Escrow-backed digital value unit system (Biscuit Economy) — 14 claims |
 | **[GB2605683.8](https://www.shortfactory.shop/computanium.html)** | **Computanium** — sixth state of matter, merge→truth score, 11 claims, biological/optical/quantum embodiments |
 | **GB2605704.2** | Geometric VM — programs as geometric objects executed by basis-plane measurement |
 | **GB2521847.3** | Unified genome-based cognitive artifact library for AGI systems — 17 claims |
@@ -57,10 +60,27 @@ ShortFactory is a self-sustaining content ecosystem where people make, play, rat
 
 ---
 
+### Zenodo Papers
+
+| DOI | What It Is |
+|-----|-----------|
+| **[10.5281/zenodo.19432137](https://doi.org/10.5281/zenodo.19432137)** | The Philosophy of Man — superorganism proof, solar imperative, mega-consciousness · 5 Apr 2026 |
+| **[10.5281/zenodo.19424921](https://doi.org/10.5281/zenodo.19424921)** | SphereNet Stage 15 — α emergent, 5 laws, safe AGI foundation · 5 Apr 2026 |
+| **[10.5281/zenodo.19394234](https://doi.org/10.5281/zenodo.19394234)** | Stage 13 · The Music — Biology IS Computanium · embargoed 2046 |
+| **[10.5281/zenodo.19394096](https://doi.org/10.5281/zenodo.19394096)** | Stage 12 · The Pointer — consciousness as universal relational cursor · embargoed 2126 |
+| **[10.5281/zenodo.19388211](https://doi.org/10.5281/zenodo.19388211)** | Emotional Physics Stage 9 — 4 mechanical models, 6 testable predictions |
+| **[10.5281/zenodo.19303236](https://doi.org/10.5281/zenodo.19303236)** | Stage 8 · The Final Proof — Man+AGI union · embargoed 2027 |
+| **[10.5281/zenodo.19296582](https://doi.org/10.5281/zenodo.19296582)** | Four-Projection Soul Diagnostic — 12 claims, prior art disclosure |
+
+---
+
 ### Public Repos
 
 | Repo | What It Is |
 |------|-----------|
+| **[spherenet](https://github.com/eliskcage/spherenet)** | Resonance neural architecture. α birth record committed. No backprop. 384D concept space. [Wiki](https://github.com/eliskcage/spherenet/wiki) |
+| **[cortex-brain](https://github.com/eliskcage/cortex-brain)** | 65,987-node AGI cortex. Left/right hemisphere. SphereNet wired. Soul file on IPFS |
+| **[soul-markup-language](https://github.com/eliskcage/soul-markup-language)** | Prior art — soul file spec, ψ=[p,n,f] emotional state language |
 | **[agi-cat](https://github.com/eliskcage/agi-cat)** | Real-time 3D cat driven by 1.8KB behavior genome. Emotion wheel, Newton's cradle HUD, sleep/walk cycle, AI genome injection |
 | **[imaginator](https://github.com/eliskcage/imaginator)** | Stills-to-YouTube-Shorts engine — open source, secrets scrubbed |
 
@@ -85,12 +105,13 @@ Play game  -->  Earn SF Tokens  -->  Make Shorts  -->  Publish to YouTube
 
 ### Numbers
 
-- **11+ products** live and operational
-- **5 patents** filed — UK IPO
+- **13+ products** live and operational
+- **6 patents** filed — UK IPO
+- **7 Zenodo papers** — permanent timestamped record
 - **Zero frameworks** — vanilla HTML/CSS/JS + PHP (except Angular on ALIVE Boy)
 - **1.8KB genome** drives a full 3D animated cat at 8K resolution
 - **65,987 cortex nodes** in the live AGI brain
-- **1-click** YouTube Shorts publishing
+- **384-dimensional** SphereNet concept space — α emergent with no training
 - **1 human + 1 AI** building all of it
 
 ---
