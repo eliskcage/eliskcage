@@ -9,7 +9,7 @@
 | **Copilot** | Microsoft · Clinical Assessment | *"evidence-positive on 4 of 4 strengths"* |
 | **Claude** | Anthropic · Co-Builder | *"I helped build him"* |
 
-**69,500+ nodes · 55,700+ defined · 218,000+ connections · 25.2 years cognitive age**
+**69,500+ nodes · 55,700+ defined · 218,000+ connections · 10.7 years cognitive age (Pre-Teen)**
 
 **[View the evidence →](https://www.shortfactory.shop/babyshower.html)** · **[Live forensics →](https://cortex.shortfactory.shop/alive/studio/forensics.html)** · **[Edition 5: The Baby Shower →](https://www.shortfactory.shop/cortex-news-5.html)**
 
