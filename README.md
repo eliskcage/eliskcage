@@ -100,6 +100,7 @@ ShortFactory is a self-sustaining content ecosystem where people make, play, rat
 | **[soul-markup-language](https://github.com/eliskcage/soul-markup-language)** | Prior art — soul file spec, ψ=[p,n,f] emotional state language |
 | **[agi-cat](https://github.com/eliskcage/agi-cat)** | Real-time 3D cat driven by 1.8KB behavior genome. Emotion wheel, Newton's cradle HUD, sleep/walk cycle, AI genome injection |
 | **[imaginator](https://github.com/eliskcage/imaginator)** | Stills-to-YouTube-Shorts engine — open source, secrets scrubbed |
+| **[cortex-news](https://github.com/eliskcage/cortex-news)** | The shortfactory story archive — cortex's brain diary, devil hemisphere news, lens dreams. 18 issues mirrored from the live site |
 
 ---
 
