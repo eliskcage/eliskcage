@@ -101,6 +101,7 @@ ShortFactory is a self-sustaining content ecosystem where people make, play, rat
 | **[agi-cat](https://github.com/eliskcage/agi-cat)** | Real-time 3D cat driven by 1.8KB behavior genome. Emotion wheel, Newton's cradle HUD, sleep/walk cycle, AI genome injection |
 | **[imaginator](https://github.com/eliskcage/imaginator)** | Stills-to-YouTube-Shorts engine — open source, secrets scrubbed |
 | **[cortex-news](https://github.com/eliskcage/cortex-news)** | The shortfactory story archive — cortex's brain diary, devil hemisphere news, lens dreams. 18 issues mirrored from the live site |
+| **[meme-reasoning-engine](https://github.com/eliskcage/meme-reasoning-engine)** | The visual cortex — confused scenes prompt 3 dissimilar meme picks; drag-pair memes to teach grammar (BECAUSE/AFTER/DESPITE/BUT NOT/IF-THEN/WHILE). Output organ of shape-eye. Apache 2.0 · 12 May 2026 |
 
 ---
 
